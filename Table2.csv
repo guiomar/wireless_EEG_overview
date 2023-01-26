@@ -1,0 +1,111 @@
+Year,First Author,Channels,Device,Participants,Population,P,Mobility,Task,Subarea,Area,DOI
+2006,Chez MG,16,DigiTrace,889,Autism,3,Free move,24-hour ambulatory,Autism,Clinical Conditions,10.1016/j.yebeh.2005.11.001
+2015,Malcolm BR,72,ActiveTwo,36,Older,2,Walk on a treadmill,Visual Go/No-Go,"Ageing, Cognitive control",Clinical Conditions,10.1016/j.neuroimage.2015.05.028
+2016,Grønli J,6,Titanium,16,Healthy,0,Sleep,Reading book vs iPad,Sleep,Clinical Conditions,10.1016/j.sleep.2016.02.006
+2016,Lucey BP,3,Sleep Profiler,29,Healthy,0,Sleep,Sleep,Sleep,Clinical Conditions,10.1111/jsr.12417
+2016,López-Larraz E,64,g.Tec,7,Spinal Cord Injury,2,Walk with exoskeleton,Exoskeleton control,"Gait, Spinal Cord Injury",Clinical Conditions,10.3389/fnins.2016.00359
+2017,Gu Y,4,Schwarzer EEG Amplifier,24,Epilepsy,0,Sleep,Sleep,"Epilepsy, Sleep",Clinical Conditions,10.3390/s18010029
+2017,Levendowski DJ,3,Sleep Profiler,63,Healthy,0,Sleep,Sleep biomarkers,Sleep,Clinical Conditions,10.5664/jcsm.6618
+2017,Neale C,14,EPOC,95,Older,3,Free walk outdoors,Different scenarios. Emotions,"Ageing, Emotions",Clinical Conditions,10.1007/s11524-017-0191-9
+2018,Debellemaniere E,6,Actiwave,24,Healthy,0,Sleep,Auditory stimulation during sleep,Sleep,Clinical Conditions,10.3389/fnhum.2018.00088
+2018,Simons S,16,Oxford Instr. Profile Study Room 2.3.411,22,Dementia,0,Sit,Rest with eyes closed,Dementia,Clinical Conditions,10.3390/e20010021
+2018,Calabrò RS,21,Brain Quick SystemPLUS,40,Stroke,2,Walk with exoskeleton,Exoskeleton gait training,"Gait, Stroke",Clinical Conditions,10.1186/s12984-018-0377-8
+2019,Shustak S,4,Homemade,9,Healthy,0,Sleep,Napping,Sleep,Clinical Conditions,10.1088/1741-2552/aafa05
+2019,Dres M,2,Alice PDx,44,Mechanically ventilated,0,Sleep,Sleep,Sleep,Clinical Conditions,10.1164/rccm.201811-2119OC
+2019,Mikkelsen KB,"6,20","SOMNO, cEEGrid + Smarting",15,Healthy,0,Sleep,Sleep,Sleep,Clinical Conditions,10.1111/jsr.12786
+2019,Jebelli H,14,EPOC,7,Healthy,1,Sit,Stress recognition in real time,Stress,Clinical Conditions,10.1109/JBHI.2018.2870963
+2019,Ahn JW,2,Homemade,14,Healthy,1,Sit,"Stress test, Design new system","Stress, Design",Clinical Conditions,10.3390/s19091991
+2019,Ding X,5,Muse,348,Depression,1,Sit,Visual affective and neutral stimuli,"Depression, Emotions",Clinical Conditions,10.1016/j.jad.2019.03.058
+2020,Vandecasteele K,4,ear-EEG,54,Epilepsy,0,Sit,Rest,Epilepsy,Clinical Conditions,10.1111/epi.16470
+2020,Thapa N,19,Quick-20 ,68,Dementia,0,Sit,"Rest with eyes closed, Cognitive, VR training",Dementia,Clinical Conditions,10.3390/jcm9051283
+2020,Arnal PJ,6,Siesta,25,Healthy,0,Sleep,Sleep,Sleep,Clinical Conditions,10.1093/sleep/zsaa097
+2020,Nakamura T,8,"SOMNO, ear-EEG",22,Healthy,0,Sleep,Sleep,Sleep,Clinical Conditions,10.1109/TBME.2019.2911423
+2020,Martins IP,1,BrainStation,22,Migraine,1,Sit,"Attention, pre-symptom prediction at home","Attention, Migraine",Clinical Conditions,10.1177/0333102419877660
+2020,Cicalese PA,32,BrainAmp,29,Dementia,1,Sit,"Digit encoding-retrieval, memory","Dementia, Memory",Clinical Conditions,10.1016/j.jneumeth.2020.108618
+2021,Clarke S,32,Siesta,103,Epilepsy,0,Sleep,Sleep,Epilepsy,Clinical Conditions,10.1016/j.yebeh.2019.106556
+2009,Holm A,3,SynAmps,20,Healthy,1,Sit,"Cognitive tasks, mental fatigue",Attention,Cognitive Monitoring,10.1100/tsw.2009.83
+2010,Gramann K,248,ActiveTwo,12,Healthy,4,"Stand, walk, run on a treadmill",Natural Cognition,Attention,Cognitive Monitoring,10.3389/fnhum.2010.00202
+2012,Liao LD,14,Homemade,8,Healthy,1,Sit,Game based on focus level,"Games, Attention",Cognitive Monitoring,10.1186/1743-0003-9-5
+2012,Debener S,14,EPOC,16,Healthy,3,"Sit indoors, Free walk outdoors ",Auditory oddball,Attention,Cognitive Monitoring,10.1111/j.1469-8986.2012.01471.x
+2013,Liu NH,1,Brainwave,24,Healthy,0,Sit,Attention,Attention,Cognitive Monitoring,10.3390/s130810273
+2014,Lin CT,4,Homemade,15,Healthy,1,Sit,Sustained-attention driving task with VR,Attention,Cognitive Monitoring,10.1109/TBCAS.2014.2316224
+2014,De Sanctis P,72,ActiveTwo,18,Healthy,2,"Sit, Slow, Fast Walk on treadmill",Go/NoGo response-inhibition,Cognitive control,Cognitive Monitoring,10.1016/j.neuroimage.2014.03.016
+2015,Aspinall P,14,EPOC,16,Healthy,3,Free walk,Mental states at different urban places,Emotions,Cognitive Monitoring,10.1136/bjsports-2012-091877
+2016,Hashemi A,4,Muse,6029,Healthy,1,Sit,Meditation with Neurfeedback,Meditation,Cognitive Monitoring,10.1523/ENEURO.0275-16.2016
+2016,Mirkovic B,"20,24",cEEGrid + Smarting,20,Healthy,1,Sit,Speaker detection,Audition,Cognitive Monitoring,10.3389/fnins.2016.00349
+2016,Beurskens R,64,ANT-neuro,12,Healthy,2,Constrained Walk indoors,"Cognitive-motor interference, Go/NoGo task",Cognitive control,Cognitive Monitoring,10.1155/2016/8032180
+2016,Bradford JC,264,ActiveTwo,20,Healthy,2,Walk on a treadmill,"Motor control, different slopes",Gait,Cognitive Monitoring,10.1152/jn.00089.2015
+2016,Zink R,24,Smarting,15,Healthy,3,Cycling static and free outdoor,"Auditory oddball, Cycling",Attention,Cognitive Monitoring,10.1088/1741-2560/13/4/046017
+2017,Leminen MM,4,Enobio,15,Healthy,0,Sleep,"Memory consolidation, Sleep, Auditory stimulation","Sleep, Memory",Cognitive Monitoring,10.1093/sleep/zsx003
+2017,Morales JM,1,Neurosky,17,Healthy,1,Sit,Driving simulation,Attention,Cognitive Monitoring,10.1016/j.aap.2017.09.025
+2017,So WKY,1,Neurosky,20,Healthy,1,Sit,"Mental workload, Cognitive and motor tasks",Mental workload,Cognitive Monitoring,10.1371/journal.pone.0174949
+2017,Zhang X,8,Homemade,10,Healthy,1,Sit,"Vigilance detection, Train driver",Attention,Cognitive Monitoring,10.3390/s17030486
+2017,Poulsen AT,14,EPOC,42,Healthy,1,Sit,"Watch video in classroom, Attention. Hyperscanning",Education,Cognitive Monitoring,10.1038/srep43916
+2017,Banaei M,128,BrainAmp + MOVE,17,Healthy,2,Constrained Walk indoors,Emotions in interior architectural forms with VR,Emotions,Cognitive Monitoring,10.3389/fnhum.2017.00477
+2017,Al-Barrak L,1,Neurosky,40,Healthy,3,Free walk,Mental states at different urban places. Meditation,Emotions,Cognitive Monitoring,10.1371/journal.pone.0183890
+2017,Dikker S,14,EPOC,12,Healthy,3,Free move,School classroom activities. Hyperscanning,"Education, Attention",Cognitive Monitoring,10.1016/j.cub.2017.04.002
+2018,Katsigiannis S,14,EPOC,23,Healthy,1,Sit,Emotions with audio-visual stimuli,Emotions,Cognitive Monitoring,10.1109/JBHI.2017.2688239
+2018,Marín-Morales J,9,B-Alert X10,60,Healthy,2,"Still, Free exploration of museum","Emotions with pictures, VR",Emotions,Cognitive Monitoring,10.1038/s41598-018-32063-4
+2019,Gonzalez Viejo C,1,Neurosky,30,Healthy,1,Sit,Beer consumption,Marketing,Cognitive Monitoring,10.1016/j.physbeh.2018.02.051
+2019,Golnar-Nik P,32,EEG8,16,Healthy,1,Sit,"Decision-making, consumer preferences",Marketing,Cognitive Monitoring,10.1016/j.physbeh.2019.04.025
+2019,Athavipach C,1,Homemade,12,Healthy,1,Sit,"Emotions with pictures and sounds, in-ear-EEG",Emotions,Cognitive Monitoring,10.3390/s19184014
+2019,Ziegler DA,64,ActiveTwo,59,Healthy,1,Sit,"Meditation, Attention, Memory",Meditation,Cognitive Monitoring,10.1038/s41562-019-0611-9
+2019,Dehais F,6,Enobio,22,Healthy,1,Sit,Mental Workload in pilots,Mental workload,Cognitive Monitoring,10.3390/s19061324
+2019,Blanco JA,14,EPOC,18,Healthy,1,Sit,Stroop color-word interference to elicit stress,Stress,Cognitive Monitoring,10.3390/s19030499
+2019,Djebbara Z,64,eego sports,20,Healthy,2,Constrained Walk,"Motor planning, Go/NoGo, architectural affordances with VR",Cognitive control,Cognitive Monitoring,10.1073/pnas.1900648116
+2019,Solis-Escalante T,126,WaveGuard,10,Healthy,2,Postural Balance,Postural Balance,Balance,Cognitive Monitoring,10.1016/j.neuroimage.2018.12.045
+2019,Ladouce S,32,ANT-neuro,24,Healthy,3,"Still, Free Walk",Auditory oddball,Attention,Cognitive Monitoring,10.1038/s41598-019-51996-y
+2019,Reiser JE,30,actiCAP + LiveAmp,20,Healthy,3,"Stand, Free Walk, Obstacles outdoor","Auditory oddball, Gait",Attention,Cognitive Monitoring,10.1038/s41598-019-49503-4
+2019,Piñeyro Salvidegoitia M,24,Smarting,25,Healthy,3,"Walk on a treadmill, Free walk outdoors","Memory of words at differnt locations, smartphone",Memory,Cognitive Monitoring,10.1111/psyp.13331
+2019,Bevilacqua D,14,EPOC,12,Healthy,3,Free move,School class activities. Hyperscanning,Education,Cognitive Monitoring,10.1162/jocn_a_01274
+2019,di Fronso S,64,WaveGuard,17,Healthy,3,Constrained cycling,"Physical Effort, endurance cycling",Cycling,Cognitive Monitoring,10.3389/fnins.2019.00982
+2019,Nordin AD,128,ActiveTwo,9,Healthy,4,"Walk, Run, on a treadmill with obstacles",Gait with obstacles,Gait,Cognitive Monitoring,10.1038/s41598-019-41131-2
+2019,Scanlon JEM,15,actiCAP + Vamp,12,Healthy,4,Cycling indoors/outdoors,Auditory oddball,Attention,Cognitive Monitoring,10.1016/j.brainres.2017.12.010
+2020,Narayanan AM,64,ActiveTwo,16,Healthy,1,Sit,"Auditory attention, mini-EEG",Attention,Cognitive Monitoring,10.1109/TBME.2019.2911728
+2020,Raheel A,4,Muse,21,Healthy,1,Sit,Emotion recognition in response to audio and video,Emotions,Cognitive Monitoring,10.3390/s20144037
+2020,Zhang D,14,EPOC,9,Healthy,1,Sit,Intention recognition,Intention recognition,Cognitive Monitoring,10.1109/TCYB.2019.2905157
+2020,Packheiser J,32,LiveAmp,51,Healthy,1,Sit,Motor of arms and feet to evaluate lateralization,Motor lateralization,Cognitive Monitoring,10.3389/fnins.2020.00109
+2020,Nordin AD,128,ActiveTwo,9,Healthy,2,Walk on a treadmill at different speeds,Gait speed,Gait,Cognitive Monitoring,10.1109/TBME.2019.2921766
+2020,Bigliassi M,4,Muse,24,Healthy,3,Free walk,Audio-guided mindfulness,Meditation,Cognitive Monitoring,10.1111/psyp.13529
+2020,Lin W,14,EPOC,40,Healthy,3,"Sit, Free Walk","Cognitive, emotional changes by urban spaces",Emotions,Cognitive Monitoring,10.1007/s11524-019-00407-8
+2020,Topalovic U,64,eego sports,7,Epilepsy,3,Free walk,Mobile deep brain (iEEG) and stimulation (Mo-DBRS),Epilepsy,Cognitive Monitoring,10.1016/j.neuron.2020.08.021
+2020,Haar S,14,EPOC,30,Healthy,3,Free move,"Motor learning, billiard",Motor learning,Cognitive Monitoring,10.3389/fnhum.2020.00354
+2021,Mustile M,32,ANT-neuro,32,Healthy,3,Walk with obstacles,"Real-world obstacle avoidance, Motor plan",Gait,Cognitive Monitoring,10.1111/ejn.15120
+2021,Hölle D,20,cEEGrid + Smarting,12,Healthy,3,Free move working in the office,Auditory oddball with smartphone,Attention,Cognitive Monitoring,10.3758/s13428-021-01538-0
+2010,Chin-Teng Lin,3,Homemade,15,Healthy,1,Sit,Drowsiness,Attention,Control and Communication,10.1109/TBCAS.2010.2046415
+2014,De Vos M,14,Modified EPOC,20,Healthy,3,Free walk outdoors,Auditory oddball P300,Attention,Control and Communication,10.1016/j.ijpsycho.2013.08.010
+2015,Ma J,8,g.USBamp,13,Healthy,1,Sit,"Visual oddball, classify eye movements, robot control",Robot control,Control and Communication,10.1109/TBME.2014.2369483
+2016,Luu TP,64,actiCAP + MOVE,4,Healthy,2,Walk on a treadmill,"Avatar control, VR",Robot control,Control and Communication,10.1088/1741-2560/13/3/036006
+2017,Kwak NS,8,MOVE,7,Healthy,2,"Stand, Walk with exoskeleton","Exoskeleton control, SSVEP, Gait","Exoskeleton, Gait",Control and Communication,10.1371/journal.pone.0172578
+2017,Artoni F,64,actiCAP + SD MRI Micromed,11,Healthy,2,Walk on a treadmill,Motor control of leg muscles,Gait,Control and Communication,10.1016/j.neuroimage.2017.07.013
+2018,Chen X,10,Neuracle,12,Healthy,1,Sit,"Control of robotic arm with gaze, SSVEP",Robot control,Control and Communication,10.1142/S0129065718500181
+2019,Zhang J,40,Homemade,6,Healthy,1,"Sit, motor activity",Robot control,Robot control,Control and Communication,10.3389/fnbot.2019.00007
+2020,Si-Mohammed H,6,g.USBamp,15,Healthy,1,Sit,"Robot control, SSVEP",Robot control,Control and Communication,10.1109/TVCG.2018.2873737
+2020,Shao L,32,Brain Products,7,Healthy,1,Sit,"Robot control, SSVEP",Robot control,Control and Communication,10.1155/2020/6968713
+2020,Tortora S,64,actiCAP + SD MRI Micromed,11,Healthy,2,Walk on a treadmill,Gait decoding,Gait,Control and Communication,10.1088/1741-2552/ab9842
+2012,Chi YM,1,Homemade,10,Healthy,1,Sit,Compare electrode performance in SSVEP,Comparison,Methodological Approaches,10.1109/TNSRE.2011.2174652
+2013,Badcock NA,14,EPOC,21,Healthy,1,Sit,"Auditory oddball, Validation of gaming system",Validation,Methodological Approaches,10.7717/peerj.38
+2014,De Vos M,14,Modified EPOC,13,Healthy,0,Sit,Visual P300 spelling task,Comparison,Methodological Approaches,10.1088/1741-2560/11/3/036008
+2014,David Hairston W,"64,9,14,9","ActiveTwo, B-Alert X10, EPOC, HMS",16,Healthy,1,Sit,Cognitive,Comparison,Methodological Approaches,10.1088/1741-2560/11/4/046018
+2015,Bleichner MG,13,EasyCap + BrainAmp,12,Healthy,0,Sit,Visual P300 spelling task,Design,Methodological Approaches,10.14814/phy2.12362
+2015,Mikkelsen KB,12,earEEG + g.tec USBamp,13,Healthy,1,Sit,"Cognitive, characterize ear EEG",Validation,Methodological Approaches,10.3389/fnins.2015.00438
+2015,Debener S,20,cEEGrid + Smarting,10,Healthy,1,Sit,Rest and Auditory oddball with smartphone,Validation,Methodological Approaches,10.1038/srep16743
+2015,Mullen TR,64,Cognionics HD-72 dry,9,Healthy,1,Sit,"System evaluation, Real-Time",Validation,Methodological Approaches,10.1109/TBME.2015.2481482
+2015,Snyder KL,256,ActiveTwo,10,Healthy,2,Walk on a treadmill,Methods for artifacts,Artifacts,Methodological Approaches,10.3389/fnhum.2015.00639
+2016,Rogers JM,1,Neurosky,59,Healthy,1,Sit,"Rest eyes open/closed, Auditory oddball, Visual n-back",Validation,Methodological Approaches,10.1016/j.ijpsycho.2016.06.006
+2016,Oliveira AS,64,Cognionics Dry/Wet,9,Healthy,2,"Sit, Walk on a treadmill",Auditory oddball,Comparison,Methodological Approaches,10.3389/fnhum.2016.00188
+2016,Nathan K,64,actiCAP + MOVE,4,Healthy,2,Walk on a treadmill at different speeds,Evaluate motion artifacts,Artifacts,Methodological Approaches,10.3389/fnhum.2015.00708
+2016,Kilicarslan A,64,actiCAP + MOVE,12,Healthy,2,"Walk on a treadmill, Walk with exoskeleton",Methods for artifact removal,Artifacts,Methodological Approaches,10.1088/1741-2560/13/2/026013
+2017,Melnik A,"127,64,32,14","asalabTM, actiCAP, g.Nautilus, EPOC",4,Healthy,1,Sit,"Cognitive, EEG systems comparison",Comparison,Methodological Approaches,10.3389/fnhum.2017.00150
+2017,Krigolson OE,4,Muse,60,Healthy,1,Sit,"Visual oddball, reward-learning",Validation,Methodological Approaches,10.3389/fnins.2017.00109
+2018,La TG,1,Homemade,1,Healthy,0,Sit,Rest eyes open/closed. Design electronics e-textile,Design,Methodological Approaches,10.1002/adhm.201801033
+2018,Radüntz T,"14,32,4,8,16,16","EPOC, Trilobite Jellyfish, BR8+, g.SAHARA, g.LADYbird",24,Healthy,1,Sit,Cognitive tasks and games. EEG systems comparison,Comparison,Methodological Approaches,10.3389/fphys.2018.00098
+2018,Kim JH,2,Homemade,10,Healthy,1,Sit,"Open/close eyes, arm strain. Design cabon nanotubes electronics",Design,Methodological Approaches,10.1038/s41598-017-18209-w
+2018,Kassab A,32,Homemade,16,"Epilepsy, Stroke",2,"Still, Statiorary cycling","Visual, Cognitive, Cycling, Epilepsy, Stroke",Validation,Methodological Approaches,10.1002/hbm.23849
+2019,Kam JWY,33,F1 Nielsen,30,Healthy,0,Sit,Rest and RSVP. Comparison of EEG systems,Comparison,Methodological Approaches,10.1016/j.neuroimage.2018.09.012
+2019,Blum S,24,Smarting,27,Healthy,3,"Walk on a treadmill, Free walk outdoors","Memory of words at differnt locations, smartphone",Artifacts,Methodological Approaches,10.3389/fnhum.2019.00141
+2020,Li G,1,Homemade,5,Healthy,0,Sit,Rest eyes open/closed. Design printable electrodes,Design,Methodological Approaches,10.1088/1741-2552/ab71ea
+2020,Hinrichs H,19,F1 Nielsen,32,Dementia,0,Sit,"Rest, visual evoked potentials. Comparison of EEG systems",Comparison,Methodological Approaches,10.1038/s41598-020-62154-0
+2020,Titgemeyer Y,14,EPOC,22,Epilepsy,0,Sit,Rest. Comparison with clinical EEG,Comparison,Methodological Approaches,10.1016/j.yebeh.2019.106507
+2021,Klug M,157,EasyCap + MOVE + BrainAmp,20,Healthy,2,"Stand, Physical rotation",VR. Methods,Artifacts,Methodological Approaches,10.1111/ejn.14992
+2021,Reiser JE,30,actiCAP + LiveAmp,23,Healthy,3,"Stand, Free walk, Obstacles outdoor","Cognitive-motor interference task, Gait","Cognitive-motor interference, Artifacts",Methodological Approaches,10.1111/ejn.14959
